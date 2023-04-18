@@ -18,7 +18,7 @@
 
 html, body{
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: lightgrey;
     font-family: var(--font1);
 }
 header{
@@ -28,7 +28,7 @@ header{
 }
 header > h1{
     padding-top: 50px;
-    font-variant: small-caps;
+    font-variant: small-caps;   
     font-family: var(--font2);
     font-size: 3.5em;
 }
@@ -82,7 +82,7 @@ section#img01 {
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
-    background-position: right center;
+    background-position: right top;
     
     
 }
